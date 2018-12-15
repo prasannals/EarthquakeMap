@@ -1,3 +1,0 @@
-An application displaying a map on which the past week's earthquakes are shown using markers. Use the key provided on the left side of the applet screen for more info on markers.
-
-Built using Processing extension for Java and UnfolidingMaps for Processing. The map is provided by GoogleMapProvider. You can zoom in and out of the map and scroll the map using the mouse.
